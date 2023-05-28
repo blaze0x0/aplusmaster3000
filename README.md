@@ -19,6 +19,9 @@ Don't use this tool for your assignments lah.
 
 
 ## Development
+
+> This project so incomplete, it makes your life feel complete
+
 This project is developed by a "newbie" Asian kid.
 Contribution is appreciated even tho i have no idea how that works.
 Enjoy lah!
